@@ -77,7 +77,7 @@
 ## Contact
  
 - **LinkedIn:** <your-linkedin-url>  
-- **Email:** <your-email>  
+- **Email:** dareogunbayeje@gmail.com
 - **Portfolio:** <your-portfolio-url>
  
 ---
