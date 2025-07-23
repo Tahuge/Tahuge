@@ -1,6 +1,6 @@
-# Your Name – Cybersecurity Analyst
+# Dare Ogunbayeje – Cybersecurity Analyst
  
-👋 Hello! I’m **Your Name**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I’m **Dare Ogunjayeje**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
  
 ---
  
@@ -76,9 +76,9 @@
  
 ## Contact
  
-- **LinkedIn:** <your-linkedin-url>  
+- **LinkedIn:**   https://www.linkedin.com/in/dare-ogunbayeje/
 - **Email:** dareogunbayeje@gmail.com
-- **Portfolio:** <your-portfolio-url>
+- **Portfolio:**
  
 ---
  
