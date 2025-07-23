@@ -57,7 +57,7 @@
  
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://codespaces.new/Tahuge/Building-a-multi-VM-cybersecurity-lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
