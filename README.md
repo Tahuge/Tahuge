@@ -59,7 +59,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://codespaces.new/Tahuge/Building-a-multi-VM-cybersecurity-lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://codespaces.new/Tahuge/Installing-and-hardening-Active-Directory) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://codespaces.new/Tahuge/Configuration-and-hardening-Cloud-console-in-AWS) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
