@@ -67,7 +67,7 @@
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://codespaces.new/Tahuge/ATT-CK-aligned-threat-hunting-scripts) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://codespaces.new/Tahuge/Lab-based-phishing-campaign-and-metrics) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://codespaces.new/Tahuge/Email-header-and-domain-analysis-toolkit) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://codespaces.new/Tahuge/Identifying-world-writable-and-SUID-files) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
