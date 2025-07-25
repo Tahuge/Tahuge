@@ -61,7 +61,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://codespaces.new/Tahuge/Installing-and-hardening-Active-Directory) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://codespaces.new/Tahuge/Configuration-and-hardening-Cloud-console-in-AWS) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://codespaces.new/Tahuge/Crafting-AUP-password-and-ACL-policies) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://codespaces.new/Tahuge/Network-and-web-app-scanning-with-Nessus-and-Nmap) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
